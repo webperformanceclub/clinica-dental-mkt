@@ -118,7 +118,7 @@ function CTAButtons() {
         Solicitar demo
       </a>
       <a
-        href="https://clinica-dental-sooty.vercel.app/"
+        href="https://clinica-dental-six-psi.vercel.app/"
         target="_blank"
         rel="noreferrer"
         className="inline-flex items-center justify-center rounded-lg border border-slate-300 bg-white px-6 py-3 text-sm font-semibold text-slate-900 transition hover:bg-slate-100"
@@ -232,7 +232,7 @@ export default function ClinicasDentalesPage() {
             text="Hemos preparado una web demo para que puedas ver cómo podría presentarse una clínica dental de forma clara, moderna y enfocada a captar pacientes."
           />
           <a
-            href="https://clinica-dental-sooty.vercel.app/"
+            href="https://clinica-dental-six-psi.vercel.app/"
             target="_blank"
             rel="noreferrer"
             className="mt-6 inline-flex items-center justify-center rounded-lg bg-blue-700 px-6 py-3 text-sm font-semibold text-white transition hover:bg-blue-800"
